@@ -122,6 +122,7 @@ Currently documentation is available for the following systems:
 * [MPCDF](docs/mpcdf.md)
 * [MUNIN](docs/munin.md)
 * [OIST](docs/oist.md)
+* [PALMETTO](docs/palmetto.md)
 * [PASTEUR](docs/pasteur.md)
 * [PHOENIX](docs/phoenix.md)
 * [PRINCE](docs/prince.md)

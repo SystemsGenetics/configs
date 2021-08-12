@@ -3,4 +3,5 @@ work/
 data/
 results/
 .DS_Store
+.ipynb_checkpoints
 *.code-workspace
