@@ -49,6 +49,7 @@ jobs:
             - 'mpcdf'
             - 'munin'
             - 'oist'
+            - 'palmetto'
             - 'pasteur'
             - 'phoenix'
             - 'prince'
