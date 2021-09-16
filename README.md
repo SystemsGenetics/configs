@@ -121,6 +121,7 @@ Currently documentation is available for the following systems:
 * [LUGH](docs/lugh.md)
 * [MPCDF](docs/mpcdf.md)
 * [MUNIN](docs/munin.md)
+* [NAUTILUS](docs/nautilus.md)
 * [OIST](docs/oist.md)
 * [PALMETTO](docs/palmetto.md)
 * [PASTEUR](docs/pasteur.md)
