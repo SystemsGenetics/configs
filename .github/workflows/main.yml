@@ -48,6 +48,7 @@ jobs:
             - 'lugh'
             - 'mpcdf'
             - 'munin'
+            - 'nautilus'
             - 'oist'
             - 'palmetto'
             - 'pasteur'
